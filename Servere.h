@@ -1,0 +1,3 @@
+#ifndef SERVERE_LIBRARY_H
+#define SERVERE_LIBRARY_H
+#endif //SERVERE_LIBRARY_H
